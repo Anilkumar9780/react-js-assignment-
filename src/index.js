@@ -46,10 +46,10 @@ import ReactDOM from 'react-dom/client';
 // import App from './App/Reviews/App';
 
 // Menu App
-import App from './App/Menu/App';
+// import App from './App/Menu/App';
 
 // Tabs app
-// import App from './App/Tabs/App'
+import App from './App/Tabs/App'
 
 // Css Link
 import 'bootstrap/dist/css/bootstrap.min.css';
